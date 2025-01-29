@@ -6,7 +6,7 @@ I'm an **ECE AI student** at **Indira Gandhi Delhi Technical University for Wome
 🎶 Vibing to music  
 🖌️ Creating art  
 💃 Dancing like nobody's watching  
-😂 Scrolling through memes (duh!)  
+😂 Scrolling through memes (duh)  
 
 💡 Always up for **cool AI projects, deep tech convos, and a good cup of coffee** ☕✨.
 <!--
