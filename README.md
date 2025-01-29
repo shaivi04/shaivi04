@@ -1,6 +1,14 @@
-## 👋 Hi there! Wassup?  
 
-I'm an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python** 🤖🐍.  
+
+# Hi there! Wassup?  
+
+I'm Shaivi, an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python** 🤖🐍.
+
+When not coding, I'm probably:  
+🎶 Vibing to music  
+🖌️ Creating art  
+💃 Dancing like nobody's watching  
+😂 Scrolling through memes (duh!)  
 
 Always up for **cool AI projects, deep tech convos, and a good cup of coffee** ☕✨.
 <!--
