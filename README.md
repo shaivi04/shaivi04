@@ -2,13 +2,7 @@
 
 I'm an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python** 🤖🐍.  
 
-☕ When not coding, I'm probably:  
-🎶 Vibing to music  
-🖌️ Creating art  
-💃 Dancing like nobody's watching  
-😂 Scrolling through memes (duh)  
-
-💡 Always up for **cool AI projects, deep tech convos, and a good cup of coffee** ☕✨.
+Always up for **cool AI projects, deep tech convos, and a good cup of coffee** ☕✨.
 <!--
 **shaivi04/shaivi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
