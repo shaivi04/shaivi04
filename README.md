@@ -2,7 +2,7 @@
 
 # Hi there! Wassup?  
 
-I'm Shaivi, an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python** 🤖🐍.
+I'm Shaivi, an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python** .
 
 When not coding, I'm probably:  
 🎶 Vibing to music  
