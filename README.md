@@ -1,14 +1,14 @@
 
 
-# Hi there! Wassup?  
+# Hi there!
 
 I'm Shaivi, an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python**.
 
-When not coding, I'm probably:  
-🎶 Vibing to music  
+When I’m not training models or debugging (read: staring at error logs existentially), you’ll find me:
+🎵 Vibing to music  
 🖌️ Creating art  
 💃 Dancing like nobody's watching  
-😂 Scrolling through memes (duh)  
+😂 Deciphering life—one meme at a time
 
 Always up for **cool AI projects, deep tech convos, and a good cup of coffee** ☕✨.
 <!--
