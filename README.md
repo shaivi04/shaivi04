@@ -6,10 +6,10 @@ I'm Shaivi, an **ECE AI student** at **Indira Gandhi Delhi Technical University 
 
 When I’m not training models or debugging (read: staring at error logs existentially), you’ll find me:
 
-> Vibing to music  
-> Creating art  
-> Dancing like nobody's watching  
-> Deciphering life—one meme at a time :D
+-  **Vibing to music**  
+-  **Creating art**  
+-  **Dancing like nobody’s watching**  
+-  **Deciphering life—one meme at a time** :D
 
 Always up for **cool AI projects, deep tech convos, and a good cup of coffee** ☕✨.
 <!--
