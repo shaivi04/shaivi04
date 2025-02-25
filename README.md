@@ -1,10 +1,11 @@
 
 
-# Hi there!
+<h1 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
 
 I'm Shaivi, an **ECE AI student** at **Indira Gandhi Delhi Technical University for Women**, a tech enthusiast exploring everything **AI & Python**.
 
-When I’m not training models or debugging (read: staring at error logs existentially), you’ll find me:
+When I’m not training models or debugging, you’ll find me:
 
 -  **Vibing to music**  
 -  **Creating art**  
